@@ -136,8 +136,47 @@ footer {
 
 /* Portfolio Styles */
 
-.portfolio {
+.Project1 img {
+	float: left;
+	height: 150px;
+	width: 150px;
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 20px;
+}
 
+.Project2 img {
+	float: left;
+	height: 150px;
+	width: 150px;
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 20px;
+}
+
+.Project3 img {
+	height: 150px;
+	width: 150px;
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 20px;
+}
+
+.Project4 img {
+	float: left;
+	height: 150px;
+	width: 150px;
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 20px;
+}
+
+.Project5 img {
+	height: 150px;
+	width: 150px;
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 20px;
 }
 
 /* Contact Form Styles */
